@@ -1,2 +1,2 @@
 # labandlearn
-Laboration and learnimg
+Laboration and learning
